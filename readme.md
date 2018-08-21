@@ -1,3 +1,2 @@
-#Some setup information :).
 
 
